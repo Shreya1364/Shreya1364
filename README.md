@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on Open-source projects, web applications, and innovative tech solutions
 - 📫 How to reach me:
   - Linkedin: https://www.linkedin.com/in/shreya-jadhav-767391248
-- ✉️ Email:shreyajadhav1364@gmail.com 
+- ✉️ Email:
+  shreyajadhav1364@gmail.com 
 - 😄 Pronouns: She/Her 
 - ⚡ Fun fact:I have won 2nd prize at a state-level technical paper presentation!
 - 💻 Languages: HTML, CSS, Python, Java, PHP
