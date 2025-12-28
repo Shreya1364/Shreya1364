@@ -1,10 +1,18 @@
 
 <h1 align="center">Hi 👋, I'm Shreya Jadhav</h1>
-<h3 align="center">B.Tech CSE Student | Tech Explorer | Project Builder</h3>
+<h3 align="center">
+B.Tech CSE Student | Full-Stack Project Builder | Aspiring Data Analyst
+</h3>
+
+<p align="center">
+🚀 Passionate about building real-world projects using Web, IoT & AI technologies  
+🎓 B.Tech Computer Science & Engineering (4th Year)  
+🌱 Currently exploring Full-Stack Development, Data Analytics & AI-based applications  
+</p>
 
 ---
 
-## 🌐 Socials
+## 🌐 Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/shreyajadhav" target="_blank">
@@ -28,19 +36,17 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
-### 🌐 Web & App Development
+### 🌐 Frontend & Backend
 <p>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
- 
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
-### 🧠 Technologies & Tools
+### 🧠 IoT Tools
 <p>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
@@ -53,13 +59,21 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyajadhav&show_icons=true&theme=dracula" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shreya1364&show_icons=true&theme=dracula" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyajadhav&theme=dracula" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreya1364&theme=dracula" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyajadhav&layout=compact&theme=dracula" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreya1364&layout=compact&theme=dracula" />
 </p>
+
+---
+
+## ✨ Career Goal
+
+🎯 Seeking opportunities to grow as a **Software Developer / Data Analytics**,  
+where I can apply my technical skills, learn from real-world challenges, and contribute to impactful projects.
+
