@@ -53,7 +53,6 @@ B.Tech CSE Student | Full-Stack Project Builder | Aspiring Data Analyst
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/NodeMCU-000000?style=flat-square&logo=wifi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white" />
 </p>
 
 ---
